@@ -4,5 +4,6 @@
 
 Olá! Bem vindo ao meu livro de receitas :call_me_hand:
 
-- Bolo
+- Bolo de Chocolate
+- Geléia de Pimenta
 
